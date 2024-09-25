@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brainfuck", "BrainFuck\Brainfuck.csproj", "{6039F7CE-B132-452B-A1B2-70EC8D21D89E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F2B739C7-843D-4207-A148-CA8DC11A5D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponta", "Ponta\Ponta.csproj", "{799AA6BB-6BE5-4652-8970-898AB50A61C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6039F7CE-B132-452B-A1B2-70EC8D21D89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6039F7CE-B132-452B-A1B2-70EC8D21D89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6039F7CE-B132-452B-A1B2-70EC8D21D89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6039F7CE-B132-452B-A1B2-70EC8D21D89E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B739C7-843D-4207-A148-CA8DC11A5D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B739C7-843D-4207-A148-CA8DC11A5D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B739C7-843D-4207-A148-CA8DC11A5D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B739C7-843D-4207-A148-CA8DC11A5D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799AA6BB-6BE5-4652-8970-898AB50A61C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799AA6BB-6BE5-4652-8970-898AB50A61C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799AA6BB-6BE5-4652-8970-898AB50A61C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799AA6BB-6BE5-4652-8970-898AB50A61C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2888EF83-D4EF-408D-B5E0-B25283347E15}
+	EndGlobalSection
+EndGlobal
